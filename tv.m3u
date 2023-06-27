@@ -1,0 +1,560 @@
+﻿#EXTM3U
+
+#EXTINF:-1  group-title="Lista TV", Azteca UNO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=1
+#EXTINF:-1  group-title="Lista TV", Azteca 7
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=3
+#EXTINF:-1  group-title="Lista TV", Azteca 7 (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=4
+#EXTINF:-1  group-title="Lista TV", Canal ONCE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=5
+#EXTINF:-1  group-title="Lista TV", Canal 14
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=6
+#EXTINF:-1  group-title="Lista TV", Canal 22
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=7
+#EXTINF:-1  group-title="Lista TV", Canal 5
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
+#EXTINF:-1  group-title="Lista TV", Canal 5 (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=10
+#EXTINF:-1  group-title="Lista TV", Unknow
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=11
+#EXTINF:-1  group-title="Lista TV", Unknow 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=12
+#EXTINF:-1  group-title="Lista TV", Unknow 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=13
+#EXTINF:-1  group-title="Lista TV", Imagen TV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=14
+#EXTINF:-1  group-title="Lista TV", DreamWorks
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=15
+#EXTINF:-1  group-title="Lista TV", Las estrellas
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=16
+#EXTINF:-1  group-title="Lista TV", Las estrellas 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=17
+#EXTINF:-1  group-title="Lista TV", Mexiquense
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=18
+#EXTINF:-1  group-title="Lista TV", Desconocido
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=20
+#EXTINF:-1  group-title="Lista TV", Unicable
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=21
+#EXTINF:-1  group-title="Lista TV", Canal 10
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=22
+#EXTINF:-1  group-title="Lista TV", Canal 15
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=23
+#EXTINF:-1  group-title="Lista TV", DW
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=26
+#EXTINF:-1  group-title="Lista TV", ADN40
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=44
+#EXTINF:-1  group-title="Lista TV", Pqueradio
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=46
+#EXTINF:-1  group-title="Lista TV", WowTV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=47
+#EXTINF:-1  group-title="Lista TV", Corazon
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=65
+#EXTINF:-1  group-title="Lista TV", A&E
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=61
+#EXTINF:-1  group-title="Lista TV", AXN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=62
+#EXTINF:-1  group-title="Lista TV", AXN (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=64
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=66
+#EXTINF:-1  group-title="Lista TV", CARACOL TV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=68
+#EXTINF:-1  group-title="Lista TV", GLITZ
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=69
+#EXTINF:-1  group-title="Lista TV", PASIONES
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=70
+#EXTINF:-1  group-title="Lista TV", RCN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=71
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=72
+#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=73
+#EXTINF:-1  group-title="Lista TV", DISCOVERY ID
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=75
+#EXTINF:-1  group-title="Lista TV", DISTRITO COMEDIA 
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=76
+#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=77
+#EXTINF:-1  group-title="Lista TV", TRECE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=78
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=79
+#EXTINF:-1  group-title="Lista TV", MTV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=82
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT NETWORK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=83
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=87
+#EXTINF:-1  group-title="Lista TV", SONY
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=91
+#EXTINF:-1  group-title="Lista TV", TBS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=93
+#EXTINF:-1  group-title="Lista TV", TBS (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=94
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=95
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (3)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=96
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (4)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=97
+#EXTINF:-1  group-title="Lista TV", TLNOVELAS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=98
+#EXTINF:-1  group-title="Lista TV", TNT SERIES
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=99
+#EXTINF:-1  group-title="Lista TV", TRUTV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=100
+#EXTINF:-1  group-title="Lista TV", TRUTV (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=101
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=104
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL CHANNEL (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=105
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=106
+#EXTINF:-1  group-title="Lista TV", WARNER
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=107
+#EXTINF:-1  group-title="Lista TV", WARNER
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=108
+#EXTINF:-1  group-title="Lista TV", BABYTV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=109
+#EXTINF:-1  group-title="Lista TV", BITME
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=110
+#EXTINF:-1  group-title="Lista TV", CARTOONITO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=111
+#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=112
+#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=113
+#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=114
+#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=115
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=116
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=117
+#EXTINF:-1  group-title="Lista TV", DISNEY JR
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=118
+#EXTINF:-1  group-title="Lista TV", DISNEY JR (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=119
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=120
+#EXTINF:-1  group-title="Lista TV", TP CLAN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=121
+#EXTINF:-1  group-title="Lista TV", TP CLAN 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=122
+#EXTINF:-1  group-title="Lista TV", BOING
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=123
+#EXTINF:-1  group-title="Lista TV", NICK JR
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=124
+#EXTINF:-1  group-title="Lista TV", NICK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=125
+#EXTINF:-1  group-title="Lista TV", NICK 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=126
+#EXTINF:-1  group-title="Lista TV", NICK JR
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=128
+#EXTINF:-1  group-title="Lista TV", NICK JR 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=129
+#EXTINF:-1  group-title="Lista TV", NICKTOONS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=130
+#EXTINF:-1  group-title="Lista TV", TEEN NICK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=131
+#EXTINF:-1  group-title="Lista TV", TEEN NICK 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=132
+#EXTINF:-1  group-title="Lista TV", PBS KIDS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=133
+#EXTINF:-1  group-title="Lista TV", CARTOONITO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=134
+#EXTINF:-1  group-title="Lista TV", TOONCAST
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=135
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL KIDS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=136
+#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=137
+#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=138
+#EXTINF:-1  group-title="Lista TV", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=139
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=142
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=143
+#EXTINF:-1  group-title="Lista TV", H&H
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=144
+#EXTINF:-1  group-title="Lista TV", H&H
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=145
+#EXTINF:-1  group-title="Lista TV", DISCOVERY SCIENCE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=146
+#EXTINF:-1  group-title="Lista TV", DISCOVERY THEATER
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=147
+#EXTINF:-1  group-title="Lista TV", DISCOVERY TURBO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=149
+#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=150
+#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=151
+#EXTINF:-1  group-title="Lista TV", GOURMET
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=152
+#EXTINF:-1  group-title="Lista TV", E!
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=153
+#EXTINF:-1  group-title="Lista TV", FOODNETWORK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=154
+#EXTINF:-1  group-title="Lista TV", LAS ESTRELLAS -2HR
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=155
+#EXTINF:-1  group-title="Lista TV", HISTORY
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=156
+#EXTINF:-1  group-title="Lista TV", HISTORY (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=157
+#EXTINF:-1  group-title="Lista TV", H2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=158
+#EXTINF:-1  group-title="Lista TV", H2 (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=159
+#EXTINF:-1  group-title="Lista TV", LIFETIME
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=162
+#EXTINF:-1  group-title="Lista TV", LIFETIME (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=163
+#EXTINF:-1  group-title="Lista TV", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=166
+#EXTINF:-1  group-title="Lista TV", NAT GEO (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=167
+#EXTINF:-1  group-title="Lista TV", TLC
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=168
+#EXTINF:-1  group-title="Lista TV", TLC (2)
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=169
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=171
+#EXTINF:-1  group-title="Lista TV", AMC
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=172
+#EXTINF:-1  group-title="Lista TV", AMC 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=173
+#EXTINF:-1  group-title="Lista TV", SPACE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=174
+#EXTINF:-1  group-title="Lista TV", CINECANAL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=177
+#EXTINF:-1  group-title="Lista TV", CINECANAL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=178
+#EXTINF:-1  group-title="Lista TV", CINEMAX
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=179
+#EXTINF:-1  group-title="Lista TV", DHE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=180
+#EXTINF:-1  group-title="Lista TV", DE PELICULA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=181
+#EXTINF:-1  group-title="Lista TV", DE PELICULA +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=182
+#EXTINF:-1  group-title="Lista TV", DE PELICULA CLASICO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=183
+#EXTINF:-1  group-title="Lista TV", EUROPA EUROPA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=184
+#EXTINF:-1  group-title="Lista TV", FX
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=186
+#EXTINF:-1  group-title="Lista TV", FX 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=187
+#EXTINF:-1  group-title="Lista TV", I SAT
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=188
+#EXTINF:-1  group-title="Lista TV", I SAT 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=189
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=190
+#EXTINF:-1  group-title="Lista TV", MORBIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=191
+#EXTINF:-1  group-title="Lista TV", SPACE 
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=192
+#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=193
+#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=194
+#EXTINF:-1  group-title="Lista TV", SUNDANCE TV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=195
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=196
+#EXTINF:-1  group-title="Lista TV", TCM
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=198
+#EXTINF:-1  group-title="Lista TV", TNT
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=199
+#EXTINF:-1  group-title="Lista TV", SONY CINE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=200
+#EXTINF:-1  group-title="Lista TV", STAR CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=206
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=207
+#EXTINF:-1  group-title="Lista TV", GOLDEN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=208
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=209
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=210
+#EXTINF:-1  group-title="Lista TV", GOLDEN PREMIER
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=211
+#EXTINF:-1  group-title="Lista TV", HBO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=212
+#EXTINF:-1  group-title="Lista TV", HBO 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=213
+#EXTINF:-1  group-title="Lista TV", HBO +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=214
+#EXTINF:-1  group-title="Lista TV", HBO FAMILY
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=215
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=216
+#EXTINF:-1  group-title="Lista TV", HBO POP
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=217
+#EXTINF:-1  group-title="Lista TV", HBO SIGNATURE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=218
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=220
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=221
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT NETWORK
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=222
+#EXTINF:-1  group-title="Lista TV", ADRENALINA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=231
+#EXTINF:-1  group-title="Lista TV", AFIZZIONADOS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=232
+#EXTINF:-1  group-title="Lista TV", AYM SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=233
+#EXTINF:-1  group-title="Lista TV", BEIN N
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=234
+#EXTINF:-1  group-title="Lista TV", CLARO SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=235
+#EXTINF:-1  group-title="Lista TV", WIN SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=236
+#EXTINF:-1  group-title="Lista TV", WIN SPORTS +
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=237
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=238
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=239
+#EXTINF:-1  group-title="Lista TV", ESPN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=242
+#EXTINF:-1  group-title="Lista TV", ESPN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=243
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=244
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=245
+#EXTINF:-1  group-title="Lista TV", ESPN 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=246
+#EXTINF:-1  group-title="Lista TV", ESPN 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=247
+#EXTINF:-1  group-title="Lista TV", ESPN DEPORTES
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=248
+#EXTINF:-1  group-title="Lista TV", ESPN XTRA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=249
+#EXTINF:-1  group-title="Lista TV", ESPN XTRA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=250
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=251
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=252
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=253
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=254
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=255
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=256
+#EXTINF:-1  group-title="Lista TV", GOL TV
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=257
+#EXTINF:-1  group-title="Lista TV", NBA
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=258
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=259
+#EXTINF:-1  group-title="Lista TV", SKY SPORTS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=266
+#EXTINF:-1  group-title="Lista TV", SPACE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=269
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270
+#EXTINF:-1  group-title="Lista TV", TNT
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=273
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=276
+#EXTINF:-1  group-title="Lista TV", TVC DEPORTES
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=277
+#EXTINF:-1  group-title="Lista TV", UNIVISION EI
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=282
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=287
+#EXTINF:-1  group-title="Lista TV", CINEMAX
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=288
+#EXTINF:-1  group-title="Lista TV", BANDAMAX
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=290
+#EXTINF:-1  group-title="Lista TV", NICK MUSIC
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=306
+#EXTINF:-1  group-title="Lista TV", ANTENA 3
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=321
+#EXTINF:-1  group-title="Lista TV", A3SERIES
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=322
+#EXTINF:-1  group-title="Lista TV", TELECINCO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=334
+#EXTINF:-1  group-title="Lista TV", RCN
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=338
+
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, A&E HD
+http://190.83.60.34:1414/play/a01c
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, AMC HD
+http://190.83.60.34:1414/play/a03m
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ATV HD
+http://190.83.60.34:1414/play/a05o
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ATV+
+http://190.83.60.34:1414/play/a05n
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, AXN HD
+http://190.83.60.34:1414/play/a01f
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, AZ Cinema HD
+http://190.83.60.34:1414/play/a03y
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, America TV HD
+http://190.83.60.34:1414/play/a04j
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Animal Planet HD
+http://190.83.60.34:1414/play/a042
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, CANAL PRUEBA
+http://190.83.60.34:1414/play/a06s
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, CNN Chile HD
+http://190.83.60.34:1414/play/a01a
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Canal 1 HD
+http://190.83.60.34:1414/play/a04b
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Caracol HD
+http://190.83.60.34:1414/play/a054
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Cartoon Network HD
+http://190.83.60.34:1414/play/a03u
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Cinecanal HD
+http://190.83.60.34:1414/play/a03l
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Cinemax HD
+http://190.83.60.34:1414/play/a02f
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Comedy Central HD
+http://190.83.60.34:1414/play/a02g
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, DHE HD
+http://190.83.60.34:1414/play/a059
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, DIRECTV 2
+http://190.83.60.34:1414/play/a06c
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, DIRECTV LIGA 
+http://190.83.60.34:1414/play/a06a
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, DIRECTV SPORT
+http://190.83.60.34:1414/play/a06d
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Directv Sports Fight
+http://190.83.60.34:1414/play/a069
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Directv Sports Plus
+http://190.83.60.34:1414/play/a06b
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Discovery H&H HD
+http://190.83.60.34:1414/play/a02q
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Discovery HD
+http://190.83.60.34:1414/play/a05a
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Discovery Kids HD
+http://190.83.60.34:1414/play/a02p
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Discovery Theater HD
+http://190.83.60.34:1414/play/a02r
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Discovery World HD
+http://190.83.60.34:1414/play/a03k
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Disney HD
+http://190.83.60.34:1414/play/a023
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, E! HD
+http://190.83.60.34:1414/play/a05z
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN 2 HD
+http://190.83.60.34:1414/play/a02c
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN 3 HD
+http://190.83.60.34:1414/play/a026
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN 4 HD
+http://190.83.60.34:1414/play/a02w
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN EXTRA HD
+http://190.83.60.34:1414/play/a03n
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN HD
+http://190.83.60.34:1414/play/a036
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ESPN HD
+http://190.83.60.34:1414/play/a01v
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, FOX Sports 2 HD
+http://190.83.60.34:1414/play/a02x
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, FX HD
+http://190.83.60.34:1414/play/a035
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Food Network HD
+http://190.83.60.34:1414/play/a04i
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Fox Sports 3 HD
+http://190.83.60.34:1414/play/a027
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, GLOBAL
+http://190.83.60.34:1414/play/a06g
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, GOLPERU HD
+http://190.83.60.34:1414/play/a04m
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, GolTV HD
+http://190.83.60.34:1414/play/a04f
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Golden HD
+http://190.83.60.34:1414/play/a049
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, HBO 2 HD
+http://190.83.60.34:1414/play/a040
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, HBO Family HD
+http://190.83.60.34:1414/play/a06n
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, HBO HD
+http://190.83.60.34:1414/play/a03q
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, HBO POP HD
+http://190.83.60.34:1414/play/a01j
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, HBO XTREME HD
+http://190.83.60.34:1414/play/a06o
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, History Channel HD
+http://190.83.60.34:1414/play/a01b
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, ID HD
+http://190.83.60.34:1414/play/a02h
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Kanal D Drama HD
+http://190.83.60.34:1414/play/a03t
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, La Red HD
+http://190.83.60.34:1414/play/a01t
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Las Estrellas HD
+http://190.83.60.34:1414/play/a06j
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Latina HD
+http://190.83.60.34:1414/play/a04k
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Lolly Kids HD
+http://190.83.60.34:1414/play/a04r
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, MEGA HD
+http://190.83.60.34:1414/play/a03i
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Movistar Deportes HD
+http://190.83.60.34:1414/play/a05s
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, NTV
+http://190.83.60.34:1414/play/a03g
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Nat Geo HD
+http://190.83.60.34:1414/play/a03j
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Nick HD
+http://190.83.60.34:1414/play/a01s
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Nick Music HD
+http://190.83.60.34:1414/play/a031
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, PANAMERICANA TV
+http://190.83.60.34:1414/play/a06f
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Paramount HD
+http://190.83.60.34:1414/play/a03v
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Pasiones HD
+http://190.83.60.34:1414/play/a022
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, STAR CHANNEL HD
+http://190.83.60.34:1414/play/a01q
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, STAR TVE HD
+http://190.83.60.34:1414/play/a03x
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Sony HD
+http://190.83.60.34:1414/play/a01d
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Space HD
+http://190.83.60.34:1414/play/a01g
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Studio Universal HD
+http://190.83.60.34:1414/play/a03w
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Sun Channel HD
+http://190.83.60.34:1414/play/a02o
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TELEMUNDO
+http://190.83.60.34:1414/play/a06q
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TELENOVELAS
+http://190.83.60.34:1414/play/a06p
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TNT HD
+http://190.83.60.34:1414/play/a025
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TNT SPORTS HD
+http://190.83.60.34:1414/play/a01h
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TNT Series HD
+http://190.83.60.34:1414/play/a034
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TV+ HD
+http://190.83.60.34:1414/play/a03h
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Teen Nick HD
+http://190.83.60.34:1414/play/a06i
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, TyC Sports HD
+http://190.83.60.34:1414/play/a04l
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, UNIVERSAL CHANNEL HD
+http://190.83.60.34:1414/play/a02u
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, UNIVISION
+http://190.83.60.34:1414/play/a06r
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, WILLAX
+http://190.83.60.34:1414/play/a06e
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Warner Channel HD
+http://190.83.60.34:1414/play/a01e
+#EXTINF:-1 tvg-shift="-2"  group-title="TV2, Win Sports HD
+http://190.83.60.34:1414/play/a01k
+
